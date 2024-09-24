@@ -1,10 +1,10 @@
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
-- Ctrl-C (copy)
-- Ctrl-V (paste)
-- Ctrl-Z (undo)
+- ⌘-C (copy)
+- ⌘-V (paste)
+- ⌘-Z (undo)
 
 Shortcuts I would like to start using: 
-- Ctrl-Shift-T (reopen closed tab)
-- Ctrl-Tab (switch between open tabs)
-- Alt-Tab (switch between open applications)
+- ⌘-Shift-T (reopen closed tab)
+- ⌘-Tab (switch between open tabs)
+- ⌥-Tab (switch between open applications)
