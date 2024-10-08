@@ -32,3 +32,7 @@ Shortcuts I would like to start using:
 - ⌘-Shift-T (reopen closed tab)
 - ⌘-Tab (switch between open tabs)
 - ⌥-Tab (switch between open applications)
+
+
+## CLI commands
+[CLI commands](docs/cli.md).
