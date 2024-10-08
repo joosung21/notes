@@ -35,4 +35,4 @@ Shortcuts I would like to start using:
 
 
 ## CLI commands
-[CLI commands](docs/cli.md).
+[CLI commands](docs/cli.md)
